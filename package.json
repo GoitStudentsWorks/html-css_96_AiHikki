@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-DataDynasty01/",
+    "build": "vite build --base=/html-css_96_AiHikki/",
     "preview": "vite preview"
   },
   "devDependencies": {
